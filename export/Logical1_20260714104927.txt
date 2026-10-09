@@ -1,0 +1,5 @@
+table_name mode_name pv1_name pv1_value pv2_name pv2_value        time         operation 
+ Logical1    test     IOC:m1     1.0     IOC:m2     0.0    2026-07-14 10:47:30  modify   
+ Logical1    mode1    IOC:m1     1.0     IOC:m2     0.0    2026-07-10 11:23:25  modify   
+ Logical1    mode2    IOC:m1     3.0     IOC:m2    -2.0    2026-07-10 11:32:55  create   
+ Logical1    test1    IOC:m1    10.0     IOC:m2    -15.0   2026-07-10 14:19:37  create   
